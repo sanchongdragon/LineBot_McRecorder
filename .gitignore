@@ -1,6 +1,3 @@
-LineBot_McRecorder/.idea/.gitignore
-LineBot_McRecorder/.idea/misc.xml
-LineBot_McRecorder/.idea/vcs.xml
-LineBot_McRecorder/.idea/compiler.xml
-LineBot_McRecorder/.idea/encodings.xml
-LineBot_McRecorder/.idea/jarRepositories.xml
+McRecorder/.gradle/
+McRecorder/.idea/
+McRecorder/build/
